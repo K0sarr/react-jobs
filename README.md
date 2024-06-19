@@ -3,7 +3,7 @@
 
 
 ## Overview
-The Job Listing Website is a comprehensive and interactive web application designed to help users find and manage React developer job listings. Built with React, Vite, and styled with Tailwind CSS, this project provides a dynamic and responsive user experience. Users can create new job listings, browse through existing ones, update details, and delete jobs as needed. This application demonstrates the full potential of React, showcasing various features such as components, props, state management, and data fetching using a local JSON server.
+The React Jobs Website is a comprehensive and interactive web application designed to help users find and manage React developer job listings. Built with React, Vite, and styled with Tailwind CSS, this project provides a dynamic and responsive user experience. Users can create new job listings, browse through existing ones, update details, and delete jobs as needed. This application demonstrates the full potential of React, showcasing various features such as components, props, state management, and data fetching using a local JSON server.
 
 ## Technologies Used
 + React: A JavaScript library for building user interfaces, allowing for the creation of reusable components and efficient state management.
